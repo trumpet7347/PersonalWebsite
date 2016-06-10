@@ -1,0 +1,22 @@
+{
+  "name": "Personal Website",
+  "authors": [
+    "Philip <trumpet7347@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.6",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
